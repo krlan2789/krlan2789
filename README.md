@@ -4,8 +4,10 @@
 <br />
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krlan2789&size_weight=0.0005&count_weight=0.3&layout=compact">
+  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krlan2789&layout=donut&size_weight=0.25&count_weight=0.75&langs_count=12">
 </p>
+
+<!-- [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krlan2789&layout=donut&size_weight=0.25&count_weight=0.75&langs_count=12)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- 
 <p align="center">
