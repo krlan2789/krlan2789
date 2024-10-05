@@ -4,7 +4,7 @@
 <br />
 
 <p align="center">
-  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krlan2789&layout=donut&size_weight=0.25&count_weight=0.75&langs_count=12&hide=hlsl">
+  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krlan2789&layout=donut&size_weight=0.25&count_weight=0.75&langs_count=12&hide=hlsl,mathematica">
 </p>
 
 <!-- [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krlan2789&layout=donut&size_weight=0.25&count_weight=0.75&langs_count=12)](https://github.com/anuraghazra/github-readme-stats) -->
