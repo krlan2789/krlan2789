@@ -1,6 +1,6 @@
 # Welcome to My GitHub Repository! 👋
 
-The Main Repository showcases my personal projects.
+The Main Repository showcases my projects.
 
 ## 🪪 About Me
 
