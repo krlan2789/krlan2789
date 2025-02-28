@@ -8,4 +8,4 @@ I'm Erlan Kurnia, just a programmer who passionate about creating software. Chec
 
 ## 🙋‍♀️ Contact
 
-Feel free to reach out to me via email at [erlank2789@gmail.com](mailto:erlank2789@gmail.com) if you have any questions.
+Feel free to [reach me out](https://erlankurnia.github.io/#contact), if you have any questions.
